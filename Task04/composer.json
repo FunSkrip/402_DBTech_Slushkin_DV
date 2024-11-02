@@ -1,0 +1,5 @@
+{
+    "require": {
+        "FunSkrip/hangman": "^1.2"
+    }
+}
